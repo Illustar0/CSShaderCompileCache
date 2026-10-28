@@ -1,0 +1,5 @@
+/.xmake/
+/build/
+/compile_commands.json
+/.idea/
+/.vs/
